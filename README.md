@@ -12,7 +12,7 @@ O modelo ajudará a otimizar a produção e eliminar parâmetros não rentáveis
 - Functools: aplicação de funções
 
 ## Descrição dos Dados
-Para este projeto temos três conjuntos de dados, um para treino, outro para teste e o último é o conjunto com os dados completos.
+Para o projeto já temos os conjuntos de treino e teste seprados.
 
 **Processo tecnológico**
 - Rougher feed — matéria-prima
